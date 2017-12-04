@@ -7060,7 +7060,7 @@ input[type=checkbox] { position: relative; z-index: 20; }
 				<div class="tooltip" id="statusprotocolbad">
 					<span class="statuswarn" id="statuslabelprotocolbad">&#9888; Think twice!</span>
 					<span id="statuslabelprotocolbad1">You appear to be running this generator online from a live website. For valuable wallets it is recommended to</span>
-					<a id="statuslabelprotocolbad2" href="https://github.com/eripen732h/bitaddress.org-3.3.0/archive/v3.3.0.zip">download</a>
+					<a id="statuslabelprotocolbad2" href="https://github.com/eripen732h/bitaddress.org-3.3.0/archive/master.zip">download</a>
 					<span id="statuslabelprotocolbad3">the zip file from GitHub and run this generator offline as a local html file.</span>
 					<br /><br /><input type="button" value="OK" class="button" id="statusokprotocolbad" onclick="document.getElementById('statusprotocolbad').style.display = 'none';" />
 				</div>
@@ -7085,7 +7085,7 @@ input[type=checkbox] { position: relative; z-index: 20; }
 					<span class="item"><span id="footerlabeldonations">Donations:</span> <b>1NiNja</b>1bUmhSoTXozBRBEtR8LeF9TGbZBN</span>
 					<span class="item" id="footerlabeltranslatedby"></span>
 					<span class="item"><a href="https://github.com/eripen732h/bitaddress.org-3.3.0" target="_blank" id="footerlabelgithub">GitHub Repository</a> 
-						(<a href="https://github.com/eripen732h/bitaddress.org-3.3.0/archive/v3.3.0.zip" target="_blank" id="footerlabelgithubzip">zip</a>)</span>
+						(<a href="https://github.com/eripen732h/bitaddress.org-3.3.0/archive/master.zip" target="_blank" id="footerlabelgithubzip">zip</a>)</span>
 				</div>
 			</div>
 			<div class="authorpgp">
